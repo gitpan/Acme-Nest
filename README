@@ -1,0 +1,34 @@
+Acme-Nest version 0.01
+======================
+
+Are your namespaces boringly simple? Are they lacking enough of the
+nesting that mark them out as real modules? Acme::Nest will add
+all of that extra nesting with no extra work.
+
+Simple use Acme::Nest with your module name as a parameter and it'll
+alias My::Shiny::Module to My::Shiny::Module::Module and
+My::Shiny::Module::Module::Module ad infinitum, giving you nice long
+module names you can give to family and friends.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+None
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2010 by Luke Ross
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.10.1 or,
+at your option, any later version of Perl 5 you may have available.
+
+
