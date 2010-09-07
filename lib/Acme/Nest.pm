@@ -4,7 +4,7 @@ use 5.006000;
 use strict;
 use warnings;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 my @todo;
 
@@ -34,7 +34,7 @@ __END__
 
 =head1 NAME
 
-Acme::Nest - Perl extension for blah blah blah
+Acme::Nest - Perl extension for extending package names.
 
 =head1 SYNOPSIS
 

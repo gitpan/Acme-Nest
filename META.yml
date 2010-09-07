@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Acme-Nest
-version:            0.01
-abstract:           Perl extension for blah blah blah
+version:            0.02
+abstract:           Perl extension for extending package names.
 author:
     - Luke Ross <lr@lukeross.name>
 license:            unknown

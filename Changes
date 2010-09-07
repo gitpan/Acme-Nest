@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::Nest.
 
+0.02  Mon Sep  7 10:36:00 2010
+	- Fix error in documentation
+
 0.01  Mon Sep  6 15:36:26 2010
 	- original release
 
